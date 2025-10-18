@@ -17,7 +17,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","SemxyCarders")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME","AyakaXMusicBot")
 # --------------------------------------------------------
-BOT_NAME = getenv("𝘈𝘠𝘈𝘒𝘈 x 𝘔𝘜𝘚𝘐𝘊")
+BOT_NAME = getenv("BOT_NAME","𝘈𝘠𝘈𝘒𝘈 x 𝘔𝘜𝘚𝘐𝘊")
 # ---------------------------------------------------------
 
 
@@ -41,7 +41,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TEAMPURVI/SONALI_MUSIC",
+    "https://github.com/pikachuishere2/SONALI_MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
